@@ -1,0 +1,27 @@
+- name: Task 1 — Удаление w и z
+  path: tests/test_task1.py
+  points: 1
+
+- name: Task 2 — Удаление гласных и добавление точек
+  path: tests/test_task2.py
+  points: 1
+
+- name: Task 3 — Проверка начала и конца строки
+  path: tests/test_task3.py
+  points: 1
+
+- name: Task 4 — Дополнение строки методом center
+  path: tests/test_task4.py
+  points: 1
+
+- name: Task 5 — Дополнение числа нулями до 10 разрядов
+  path: tests/test_task5.py
+  points: 1
+
+- name: Task 6 — Проверка, состоит ли строка из заглавных букв
+  path: tests/test_task6.py
+  points: 1
+
+- name: Task 7 — Удаление служебных символов справа
+  path: tests/test_task7.py
+  points: 1
